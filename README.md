@@ -1,5 +1,8 @@
 Grad Student (M1)  
 Ehime University, Japan
+
+The 12th Cloud Programming World Cup  
+Best Optimization Award
 <!--
 **tatsuya-shibazaki/tatsuya-shibazaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
