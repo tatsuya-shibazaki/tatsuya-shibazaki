@@ -1,5 +1,5 @@
-Grad Student (M1)  
-Ehime University, Japan
+<!--Grad Student (M1)-->  
+M1 Ehime University, Japan
 
 <!--
 The 12th Cloud Programming World Cup  
