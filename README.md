@@ -1,5 +1,5 @@
 <!--Grad Student (M1)-->  
-M1  
+Graduate
 Ehime University, Japan
 
 <!--
