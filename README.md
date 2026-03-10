@@ -1,6 +1,8 @@
-<!--Grad Student (M1)-->  
+Hello, Extended World.
+<!--
 Grad Student  
 Ehime University, Japan
+-->
 
 <!--
 The 12th Cloud Programming World Cup  
